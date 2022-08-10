@@ -9,7 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/material": "^5.9.3",
+    "antd": "^4.22.3",
+    "babel-preset-es2015": "^6.24.1",
     "next": "12.2.4",
+    "next-pwa": "^5.5.5",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
